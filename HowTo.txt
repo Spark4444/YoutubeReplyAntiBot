@@ -1,0 +1,5 @@
+- Automate Reply Expansion: Use JavaScript to trigger clicks on reply buttons.
+- Async Text Collection & Comparison: Gather reply text in arrays and compare across threads.
+- Filtering & Blocking: Remove duplicate bot replies dynamically from the UI.
+- Database Storage: Save known bot users in IndexedDB or SQL, categorized by YouTube channels.
+- User-Based Blocking: Instead of filtering messages every time, preemptively block known bot accounts.
